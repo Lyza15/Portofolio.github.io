@@ -1,0 +1,30 @@
+body {
+  background-color: #fdc176;
+}
+.jumbotron {
+  padding-top: 150px;
+  background-color: #690c0c;
+}
+#gallery {
+  background-color: #690c0c;
+}
+@font-face {
+  font-family: cream-DEMO;
+  src: url(font/cream-DEMO.ttf);
+}
+h2,
+h1,
+h3 {
+  font-family: "cream-DEMO";
+  color: #690c0c;
+}
+li {
+  list-style: none;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+section {
+  padding-top: 5rem;
+}
+.btn {
+  background-color: #fdc176;
+}
